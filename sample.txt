@@ -1,7 +1,2 @@
 java
 php
-coding
-text
-kambale
-vivaan
-Vedanti
